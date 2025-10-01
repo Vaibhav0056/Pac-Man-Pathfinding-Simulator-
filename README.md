@@ -47,9 +47,14 @@ Raised when Pac-Man cannot reach the destination.
 
 📂 File Structure
 PacMan-Maze/
-│── maze.py         # Maze representation
-│── stack.py        # Custom stack implementation
-│── navigator.py    # Navigation system using stack
-│── exception.py    # Custom exception class
-│── main.py         # Testing & debugging file
-│── README.md       # Documentation (this file)
+── maze.py         # Maze representation
+
+── stack.py        # Custom stack implementation
+
+── navigator.py    # Navigation system using stack
+
+── exception.py    # Custom exception class
+
+── main.py         # Testing & debugging file
+
+── README.md       # Documentation (this file)
