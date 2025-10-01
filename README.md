@@ -46,7 +46,8 @@ Contains PathNotFoundException.
 Raised when Pac-Man cannot reach the destination.
 
 📂 File Structure
-PacMan-Maze/
+PacMan-Maze
+
 ── maze.py         # Maze representation
 
 ── stack.py        # Custom stack implementation
